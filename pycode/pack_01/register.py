@@ -1,0 +1,2 @@
+def rgt():
+  print('register')
